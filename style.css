@@ -1,0 +1,399 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F5F5F7;
+}
+#moiz{
+    height: 20px;
+    width: 20px;
+}
+/* .navbar{
+    display: flex;
+} */
+#zubair{
+    position: sticky;
+    top: 0;
+     z-index: 1000
+ }
+ #shbz{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    justify-content: center;
+    /* border: 1px solid black; */
+    height: 30px;
+    /* position: sticky; */
+    /* top: 0; */
+    /* font-size: 10px; */
+    cursor: pointer;
+    border: none;
+    /* border-radius: 16px; */
+    background-color: white;
+    padding: 6px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    flex-wrap: wrap;
+ }
+ a{
+    text-decoration: none;
+ }
+ li{
+    /* font-weight: 600;s */
+    /* color: lightgrey; */
+    /* color: #FAFAFC; */
+    font-size: 13px;
+    /* font-weight:  */
+ }
+ /* div p{
+    text-align: center;
+    margin: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 15px;
+
+} */
+#amma{
+    /* height: 200px;
+    margin-bottom: 100px;
+    border: 1px solid black; */
+}
+#irfan{
+    text-align: center;
+    margin-top: 25px;
+     /* font-size: 45px; */
+     position: absolute;
+     left: 420px;
+}
+.big{
+    font-size: 45px;
+}
+button{
+    border-radius: 20px;
+    height: 44px;
+    width: 85px;
+    background-color: #0076DF;
+    color: white;
+    border: none;
+    font-size: 17px;
+    margin-top: 15px;
+
+}
+#masjid{
+    height: 500px;
+    width:1000px;
+    margin-left: 200px;
+
+}
+#container1{
+    position: relative;
+    /* border: 1ox solid black; */
+    background-color: #F5F5F7;
+}
+/* #container2{
+    height:  250px;
+    width: 100%;
+    position: absolute;
+    margin-left: 100px;
+     position: relative;
+     background-image: url(https://www.apple.com/v/home/images/iphone-family/a/hero_iphone_family__be5jkzxszb1e_large.jpg);
+     background-size: cover;
+     border: 1px solid black;
+     padding-left:80px ;
+     padding-right:80px ;
+     padding: 100px;
+
+} */
+/* .makol{
+    border: 18px;
+    height: 44px;
+    width: 100px;
+}
+#khan{
+    position: absolute;
+    left: 460px;
+} */
+
+/* #koimigaya{
+    position: relative;
+    margin-left:  80px;
+    margin-right: 80px;
+    height: 700px;
+} */
+#container2{
+    position: relative;
+    /* border: 1px solid black; */
+    background-color: #F5F5F7;
+    border: none;
+    border-radius: 20px;
+    margin-top: 35px;
+    margin-left: 100px;
+    
+}
+#text{
+    position: absolute;
+    left: 450px;
+    top: 40px;
+}
+.zahid{
+    height: 45;
+    width: 131px;
+    padding: 2px;
+}
+#kallo{
+    color: blue;
+    background-color: #F5F5F7;
+    border: 1px solid blue;
+    margin-left: 15px;
+}
+.ramish{
+     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+h1{
+    font-size: 35px;
+}
+#image{
+    /* background-image: url(https://www.apple.com/v/home/images/iphone-family/a/hero_iphone_family__be5jkzxszb1e_large.jpg); */
+    background-size: cover;
+
+
+}
+img{
+     height: 700px;
+    width: 1100px;
+    background-size: cover;
+}
+#container3{
+    position: relative;
+    margin-top: 30px;
+    margin-left: 100px;
+
+}
+#text1{
+  position: absolute;
+  left: 450px;
+  top: 80px;
+}
+/* #image2{
+    height: 700px;
+    width: 800px;
+} */
+#dars{
+     height: 600px;
+    width: 1100px;
+}
+#parent{
+    height: 1220px;
+    width: 1100px;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 40px;
+    display: flex;
+    gap: 11px;
+    /* align-items: center; */
+}
+.saec{
+    position: relative;
+    margin: top;
+    /* display: flexs; */
+}
+#text2{
+    position: absolute;
+    left: 120px;
+}
+#pak{
+    height: 400px;
+    width: 550px;
+}
+.bahu{
+    color: white;
+}
+/* #salman{ */
+    /* text-align: center; */
+    /* justify-content: center; */
+    /* align-self:center ; */
+/* } */
+/* #aslipapa{
+    
+    width: 100%;
+    border: 1px solid black;
+    height: 1100px;
+    margin-top: 30px;
+     */
+
+
+#parent1{
+    /* border: 1px solid black; */
+    position: relative;
+    margin-left: 5px;
+    display: inline-block;
+    margin-top: 25px;
+    /* top: px; */
+    /* height: 600px; */
+    /* width: 800px; */
+
+
+}
+#firstcontainer{
+    /* border: 1px solid black; */
+    position: absolute;
+    left: 150px;
+     /* height: 900px; 
+    width: 300px; */
+}
+#india{
+    /* position: absolute; */
+    height: 460px;
+    width: 660px; 
+}
+/* #parent2{
+    display: inline-block;
+} */
+#parent2{
+     position: relative;
+     display: inline-block;
+     /* position: absolute; */
+     left: 10px;
+     top: 0;
+     /* bottom: 600px; */
+     color: white;
+      
+}
+#container5{
+     position: absolute;
+    left:130px;
+}
+#parent4{
+     position: relative;
+     display: inline-block;
+     /* position: absolute; */
+     left: 10px;
+     top: 0;
+     /* bottom: 600px; */
+     color: white;
+    
+}
+#container6{
+     position: absolute;
+    left:130px;
+}
+#parent5{
+     position: relative;
+     display: inline-block;
+     /* position: absolute; */
+     left: 10px;
+     top: 0;
+     /* bottom: 600px; */
+     /* color: white; */
+     margin-left: 10px;
+     margin-top: 10px;
+}
+#container7{
+    position: absolute;
+    left:130px;
+}
+#parent6{
+     position: relative;
+     display: inline-block;
+     /* position: absolute; */
+     left: 10px;
+     top: 0;
+     /* bottom: 600px; */
+     /* color: white; */
+     margin-left: 10px;
+     margin-top: 10px;
+     display: inline-block;
+}
+#container8{
+     position: absolute;
+    left:130px;
+}
+#parent7{
+     position: relative;
+     display: inline-block;
+     /* position: absolute; */
+     left: 5px;
+     top: 0;
+     /* bottom: 600px; */
+     /* color: white; */
+     margin-left: 5px;
+     margin-top: 10px;
+     display: inline-block;
+}
+#container9{
+     position: absolute;
+    left:130px;
+}
+#baabu{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 45px;
+    margin-bottom:30px ;
+}
+#khalda{
+    width: 1100px;
+    height: 500px;
+    margin-left: 140px;
+     /* margin-left: auto;
+    margin-right: auto; */
+}
+#super{
+    width: 1000px;
+    height: 480px;
+    /* border: 1px solid black; */
+      border-bottom: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    /* font-family: system-ui; */
+    /* font-family: sans-serif; */
+    font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+/* #zahid{ */
+    /* list-style: ; */
+    /* list-style-type: none; */
+/* } */
+#joker{
+    margin-top: 10px;
+}
+ul{
+    list-style-type: none;
+}
+ol{
+    list-style-position: inside;
+}
+#baaphatu{
+    /* border: 1px solid black; */
+    /* margin-top: 20px; */
+     width: 1000px;
+    height: 450px;
+     margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    word-spacing: 3px;
+    line-height: 27px;
+    /* font-family:  sans-serif; ; */
+      font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+#indinasia{
+    display: block;
+
+}
+#gogo{
+    text-align: center;
+    width: 1000px;
+    margin-top: 10px;
+    border-bottom: 2px solid black;
+    /* border: 1px solid black; */
+    display: inline-block;
+     /* margin-left: auto;
+    margin-right: auto; */
+    margin-left: 230px;
+}
+#block{
+    display: block;
+}
